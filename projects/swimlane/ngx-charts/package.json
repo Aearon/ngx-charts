@@ -1,5 +1,5 @@
 {
-  "name": "@swimlane/ngx-charts",
+  "name": "@aearon/ngx-charts",
   "version": "19.0.1",
   "description": "Declarative Charting Framework for Angular",
   "repository": {
